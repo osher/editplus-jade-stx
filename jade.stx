@@ -2,7 +2,7 @@
 ; HTML syntax file written by Osher E.
 ; This file is required for EditPlus to support jade-templating colored
 ; it is not complete, but is still a start point.
-; find it in github 
+; find it in github at https://github.com/osher/editplus-jade-stx
 
 #DELIMITER=<>!/="'%,.(){}[]+*~&|{};
 #QUOTATION1='
